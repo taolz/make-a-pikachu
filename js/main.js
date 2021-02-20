@@ -121,7 +121,7 @@
 	width: 80px;
 	border: 2px solid black;
 	position: absolute;
-	top: 66px;
+	top: 64px;
 	background: #fee433;
 }
 /*
